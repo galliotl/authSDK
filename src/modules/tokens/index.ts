@@ -1,4 +1,4 @@
-import { deleteCookie, getCookie, setCookie } from "../../utils/cookies";
+import { deleteCookie, getCookie, setCookie } from "@galliotl/utils";
 
 /* ACCESS TOKEN */
 let accessToken = "";
