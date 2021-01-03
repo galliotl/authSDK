@@ -1,6 +1,6 @@
 {
-  "name": "authsdk",
-  "version": "1.0.0",
+  "name": "@galliotl/authsdk",
+  "version": "0.0.0",
   "description": "A SDK for our auth service",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
